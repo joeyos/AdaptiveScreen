@@ -1,2 +1,2 @@
 # AdaptiveScreen
-Use CSS to daptive screen size.
+Use CSS to adapt screen size.
